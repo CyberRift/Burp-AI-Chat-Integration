@@ -8,11 +8,9 @@ This Burp Suite extension integrates Ollama's LLM capabilities into Burp Suite, 
   - Independent chat tab for each request editor screen
   - Separate chat history per request
   - Interactive chat with LLM directly in the request editor screen
-  - Context-aware analysis of HTTP requests and responses
   - Support for multimodal interactions (images) with compatible models
   - Keyboard shortcuts (Ctrl+Enter) for quick message sending
   - Chat history management with clear chat functionality
-  - Timestamp-based message tracking
   - Background processing for non-blocking UI experience
 
 - **Custom Configuration**: 
